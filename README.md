@@ -8,6 +8,10 @@ Altium Designer(DXP) project for ElectromagneticPositioning.
 
 <img src="https://github.com/Peefy/PCB_ElectromagneticPositioning/blob/master/png/pcb.png"/>
 
+<img src="https://github.com/Peefy/PCB_ElectromagneticPositioning/blob/master/png/TxRealBoard.png"/>
+
+<img src="https://github.com/Peefy/PCB_ElectromagneticPositioning/blob/master/png/RxRealBoard.png"/>
+
 ## DSP Project
 
 The CCS DSP project is here.
